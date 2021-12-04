@@ -20,8 +20,7 @@ export default {};
   padding-bottom: 32px;
   background-color: #fff;
   color: #878d91;
-  font-size: 14px;
-  font-weight: 300;
+  font-size: 12px;
 }
 
 .container {
@@ -37,6 +36,7 @@ a {
 }
 
 a:hover {
-  font-weight: 500;
+  color: #3190fd;
+  font-weight: 400;
 }
 </style>

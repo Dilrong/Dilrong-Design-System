@@ -24,7 +24,6 @@ export default {};
 .nav {
   list-style-type: none;
   padding-top: 8px;
-  font-weight: 300;
 }
 
 .nav li {

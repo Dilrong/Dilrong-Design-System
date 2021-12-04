@@ -21,14 +21,12 @@ export default {
 
 <style>
 #app {
-  @import url("https://fonts.googleapis.com/css2?family=Noto+Sans+KR");
-  font-family: "Noto Sans KR", sans-serif;
+  @import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard.css");
+  font-family: Pretendard, -apple-system, BlinkMacSystemFont, system-ui, Roboto,
+    "Helvetica Neue", "Segoe UI", "Apple SD Gothic Neo", "Noto Sans KR",
+    "Malgun Gothic", sans-serif;
   max-width: 1140px;
   width: 100%;
   margin: auto;
-}
-
-h1 {
-  font-weight: 300;
 }
 </style>
